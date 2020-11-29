@@ -85,13 +85,11 @@ The KYC System is built using a command line interface that will upload and pin 
 ​
 2. Create an ethereum environment using Anaconda prompt.
 ​
-3. Go to the repository where `kyc.py` and `kycreport` files are stored.
+3. Deploy the kyccontract.sol in Remix IDE.
 ​
-4. Deploy the kyccontract.sol in Remix IDE.
-​
-5. Inside the KYC_frontend folder, create a .env file and copy the Pinata API Key and Secret API Key, address of the deployed smart contract and the WEB3 provider uri.
+4. Inside the KYC_frontend folder, create a .env file and copy and paste the following information (1) the Pinata API Key and Secret API Key, (2) address of the deployed smart contract and (3) the WEB3 provider uri.
 
-6. Use the command line interface to create your records, using the following steps:
+5. Use the command line interface to create your records, using the following steps:
 ​
 * Launch your ethereum environment​
 
