@@ -154,5 +154,9 @@ In the future, blockchain-based KYC utilities will help bring cost savings to an
 2. https://www2.deloitte.com/content/dam/Deloitte/ch/Documents/innovation/ch-en-innovation-deloitte-blockchain-app-in-banking.pdf
 
 
- 
+ Contributors
+ Elizabeth morris https://github.com/lizie29u
+ Manjari Shukla  https://github.com/Manjari-fintech
+ Jessica DeCunha https://github.com/JessicaDeCunha
+ Abuubakry Ali https://github.com/Abuubakry-Ali
 
